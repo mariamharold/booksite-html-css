@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+}
+
+.login_sign,
+.login_sign a {
+    color: brown;
+}
+
+h2 {
+    background-color: #00B3AD;
+    color: brown;
+    text-align: center;
+}
+
+.login_sign {
+
+    float: right;
+    margin-right: 10px;
+
+
+
+}
+
+a:hover,
+i:hover {
+    font-weight: 900;
+    font-size: 1.2rem;
+}
+
+.box {
+    border: 1px solid rgb(248, 244, 244);
+    width: 46%;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.box img {
+    float: right;
+    margin: 3px;
+}
+
+header {
+    background-color: tomato;
+}
+
+input {
+    width: 93%;
+    margin-left: 4px;
+    border: none;
+    outline: none;
+    height: 40px;
+
+
+
+}
+
+li {
+    margin: 20px;
+
+    font-size: 20px;
+}
+
+.menu {
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(255, 99, 71);
+}
+
+.menu a {
+    text-align: center;
+    color: maroon;
+    margin-right: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.img1 {
+    margin-bottom: 0px;
+    width: 100%;
+    height: 80vh;
+}
+
+main {
+    background-color: tomato;
+    margin-top: -3.5px;
+
+}
+
+.img2 {
+    float: right;
+    width: 50%;
+    position: relative;
+    margin-top: 0px;
+
+}
+
+.img2 img {
+    height: 91.8vh;
+    width: 100%;
+    position: absolute;
+}
+
+p {
+
+    font-size: 25px;
+    color: hsl(0, 0%, 100%);
+    margin-top: 80px;
+    padding-left: 80px;
+    position: absolute;
+    z-index: 1;
+}
+
+.liste {
+    margin-top: 0px;
+
+    padding-left: 30px;
+    width: 50%;
+    border-style: double;
+    background-color: khaki;
+    border-width: 10px;
+    float: left;
+}
+
+span {
+    color: darkred;
+}
+
+h3 {
+    padding-top: 10px;
+    font-size: 30px;
+    color: brown;
+    padding-left: 10px;
+
+}
+
+
+
+.clear {
+    clear: both;
+}
+
+footer {
+    clear: both;
+    background-color: #00B3AD;
+    height: 8vh;
+}
+
+.medya {
+    float: left;
+    color: brown;
+    padding-left: 20px;
+    margin-top: 15px;
+
+}
+
+.contact {
+    float: right;
+    color: brown;
+    margin-top: 15px;
+    padding-right: 20px;
+
+}
+
+.contact a {
+    color: darkblue;
+    font-size: 20px;
+
+}
+
+.medya a {
+    color: red;
+    font-size: 20px;
+}
+
+a.instagram {
+    color: indigo;
+}
